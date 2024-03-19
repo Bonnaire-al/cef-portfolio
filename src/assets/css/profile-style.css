@@ -1,0 +1,43 @@
+/* fenetre profile*/
+
+.img-profile {
+    height: 12rem;
+    width: 12rem;
+    padding: 1rem;
+}
+
+
+h2{
+    padding-left: 6rem;
+    background-color: black;
+    color: azure;
+}
+
+h3{
+text-align: center;
+color: rgb(2, 2, 61);
+}
+p{
+    text-align: center;
+    color: rgb(6, 6, 84);
+}
+
+.profile-bloc1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.profile-bloc2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.profile-bloc3{
+    background-color: rgba(31, 173, 230, 0.155);
+    color: rgb(23, 23, 79);
+    border-left: 0.5rem;
+    border-left-style: ridge;
+    border-left-color: blue;
+    border-top-right-radius: 15%;
+}

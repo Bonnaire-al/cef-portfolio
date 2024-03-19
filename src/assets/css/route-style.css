@@ -1,0 +1,19 @@
+/*fenetre parcours*/
+
+.img-route{
+    width: 85%;
+    height: 15rem;
+    margin-top: 1rem;
+    padding-left: 1rem;
+}
+
+.route-bloc1{
+    width: 90%;
+    background-color: rgba(31, 173, 230, 0.155);
+    color: rgb(23, 23, 79);
+    border-left: 0.5rem;
+    border-left-style: ridge;
+    border-left-color: blue;
+    border-top-right-radius: 15%;
+    margin-left: 1rem;
+}
